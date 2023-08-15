@@ -66,4 +66,4 @@
 2. run `npm install`
 3. configure the `.env` file, especially for the database URL using `DB_URL` variable
 4. run `npm run dev`
-5. access the available endpoints through `localhost:8000/v1` with your preferred API client (Postman, Insomnia, etc)
+5. access the available endpoints locally through [localhost:8000/v1](http://localhost:8000/v1) with your preferred API client (Postman, Insomnia, etc)
